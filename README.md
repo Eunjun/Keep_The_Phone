@@ -1,7 +1,10 @@
 # 휴대폰을 지켜라! (Keep The Phone)
 
+## Remaster Update
+
 * C++
-* [SFML](https://github.com/SFML/SFML) Library
+* SDL 1.2 to [SFML](https://github.com/SFML/SFML) Library 2.4.2
+* GameEngine Refectoring
 
 ## 스토리
 ---------------
